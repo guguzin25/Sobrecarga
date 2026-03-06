@@ -1,0 +1,18 @@
+COMANDOS DO GIT
+
+git init: cria o repositorio local (minha maquina)
+-----------------------------------------------------
+git add <caminho> :adiciona as modificações
+-----------------------------------------------------
+git commit -m "" :confirma as alterações
+-----------------------------------------------------
+git push : SOBE as alterações para o github
+-----------------------------------------------------
+git pull : PUXA as informações do github
+-----------------------------------------------------
+git checkout -b <nome da branch> : cria e muda para uma nova branch
+
+
+obs: 
+
+*branch : ramificação do codigo (versão com alteração do codigo sem mudar o codigo original)
