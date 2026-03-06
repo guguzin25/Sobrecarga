@@ -14,6 +14,8 @@ git checkout -b <nome da branch> : cria e muda para uma nova branch
 ------------------------------------------------------------------------
 git log : mostra o historico de alteraões
 ------------------------------------------------------------------------
+git clone <link> : clona o repositorio
+------------------------------------------------------------------------
 
 obs: 
 
