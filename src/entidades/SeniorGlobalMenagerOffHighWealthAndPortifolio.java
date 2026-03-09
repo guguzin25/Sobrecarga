@@ -6,12 +6,8 @@ public class SeniorGlobalMenagerOffHighWealthAndPortifolio extends Funcionario {
         super(matricula, nome, salario);
     }
 
-    @Override
     public double calcularbonus() {
         return getSalario() * 1.5;
     }
-    
-
-
 
 }
